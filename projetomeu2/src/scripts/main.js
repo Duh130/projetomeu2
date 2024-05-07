@@ -1,1 +1,1 @@
-console('ola mundo'):
+console('ola mundo');
